@@ -1,0 +1,52 @@
+import org.w3c.dom.html.HTMLMenuElement;
+
+class hotel {
+
+    Arraylist <hotel> h1
+
+    hotel()
+    {
+
+    }
+
+
+    order ()
+
+    {
+        display menu items
+
+            variables tea,cofe,snacks,idli
+
+                    selecteditem =
+                            quantity =
+
+                                    totalprice = totalprice + ( selected item * quantity )
+    }
+
+
+    psvm()
+    {
+
+
+        Menu
+                1.order items
+            2. generate bills
+            3.view all transactions
+            5.exit
+
+
+             h1.add(new hotel)
+
+            switch:
+        case 1:
+            h1.order()
+
+        case 2:
+
+
+
+
+    }
+
+}
+
